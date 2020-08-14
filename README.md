@@ -1,6 +1,6 @@
 ### Hi there, I'm Gilang - aka [@bungspaces][instagram] 👋
 
-## I design anytime and code sometimes!
+## I design anytime and code sometimes
 
 - 💻 Informatics engineering student
 - 🎨 Currently working on a [Bibit.id][bibit] as a UI Designer Intern
