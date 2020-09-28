@@ -3,7 +3,7 @@
 ## I design anytime and code sometimes
 
 - 💻 Informatics engineering student at [Politeknik Negeri Jakarta][pnj]
-- 🎨 Currently working on a [Bibit.id][bibit] as a UI Designer Intern
+- 🎨 Currently working on a [Bibit.id][bibit] as a UI Designer and Frontend Intern
 - ✨ A UI/UX Enthusiast
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
