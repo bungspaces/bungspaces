@@ -2,10 +2,10 @@
 
 ## I design anytime and code sometimes
 
-- 💻 Informatics engineering student at [Politeknik Negeri Jakarta][pnj]
-- 🎨 Currently working as a UI/UX Designer Freelance
+- 💻 Graduate in Informatics engineering at [Politeknik Negeri Jakarta][pnj]
+- 🎨 Currently working as a Associate Product Designer at [Aruna Indonesia][aruna]
 - ✨ A UI/UX Enthusiast
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -42,3 +42,4 @@
 [instagram]: https://instagram.com/bungspaces
 [linkedin]: https://linkedin.com/in/bunggilang
 [figma]: https://figma.com/@bungspaces  
+[aruna]: https://aruna.id
