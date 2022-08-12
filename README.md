@@ -3,9 +3,9 @@
 ## I design anytime and code sometimes
 
 - 💻 Graduated in Informatics engineering at [Politeknik Negeri Jakarta][pnj]
-- 🎨 Currently working as a Associate Product Designer at [TribunNetwork][tribun]
-- ✨ A UI/UX Enthusiast
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🎨 Currently working as a UI/UX Designer at [TribunNetwork][tribun]
+- ✨ A Product Digital Designer
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
