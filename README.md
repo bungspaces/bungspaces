@@ -1,9 +1,9 @@
-### Hi there, I'm Gilang - aka [@bungspaces][instagram] 👋
+### Hi there, I'm Gilang - [instagram] 👋
 
 ## I design anytime and code sometimes
 
-- 💻 Graduate in Informatics engineering at [Politeknik Negeri Jakarta][pnj]
-- 🎨 Currently working as a Associate Product Designer at [Aruna Indonesia][aruna]
+- 💻 Graduated in Informatics engineering at [Politeknik Negeri Jakarta][pnj]
+- 🎨 Currently working as a Associate Product Designer at [TribunNetwork][tribun]
 - ✨ A UI/UX Enthusiast
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -36,10 +36,10 @@
 
 [bibit]: https://bibit.id
 [pnj]: https://pnj.ac.id
-[website]: https://bit.ly/portogilang
+[website]: https://gilangsb.com
 [dribbble]: https://dribbble.com/bungspaces
 [behance]: https://behance.net/bungspaces
-[instagram]: https://instagram.com/bungspaces
-[linkedin]: https://linkedin.com/in/bunggilang
+[instagram]: https://instagram.com/bungilang_
+[linkedin]: https://linkedin.com/in/gilangsegara
 [figma]: https://figma.com/@bungspaces  
-[aruna]: https://aruna.id
+[tribun]: https://www.tribunnews.com/
